@@ -1,0 +1,3 @@
+store_id,year,month,population,location_code,id,age,gender,race,marital_status,education,division,tenure,training_status,jlevel,salary,absent,turnover,persuasion_skills,commitment,respect,development,goal,perf_feedback,perf_fair,reward_fair,work_life,competition,culture_fit,extraversion,conscientiousness,emotion_stability,agreeable,openness,cognitive_ability,structured_interview,business_rating,behavior_rating,sales_skills
+1111,2019,10,11,111,1111,33,Male,NW,N,Some college,A,11,N,1,140000,0,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4
+2222,2019,10,22,222,2222,33,Female,W,N,Some college,B,22,Y,4,140000,9,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5
